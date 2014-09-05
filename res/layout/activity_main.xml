@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#41627e"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25px"
+        android:layout_marginRight="25px"
+        android:layout_marginTop="10px"
+        android:text="Скенирај го идентификациониот код" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop= "50dp"
+        android:layout_marginBottom="125dp"
+        android:layout_weight="0.10"
+        android:text="Скенирај QR код" />
+
+</LinearLayout>
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <LinearLayout android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <Button android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/butQR"
+      android:text="QR Code"
+      android:textSize="18sp"/>
+  
+  
+  </LinearLayout>
+  <TextView android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tvStatus"
+    android:text="Press a button to start a scan."
+    android:textSize="18sp" />
+  <TextView android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/tvResult"
+    android:text="Ready"
+    android:textSize="18sp"
+    android:background="@android:color/white"
+    android:textColor="@android:color/black"/>
+</LinearLayout>
+
+ -->
+<!--  OD TUKA <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hello" />
+    <Button
+          android:id="@+id/submit"
+          android:layout_width="150dp"
+          android:layout_height="40dp"
+          android:text="submit"
+          /> 
+
+</LinearLayout>        DO TUKA E TOCNO-->
+
+
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!--     android:layout_width="fill_parent" -->
+<!--     android:layout_height="fill_parent" -->
+<!--     android:layout_gravity="center" -->
+<!--     android:orientation="vertical" > -->
+
+<!--     <TextView -->
+<!--         android:layout_width="fill_parent" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:gravity="center" -->
+<!--         android:text="hello" -->
+<!--         android:textSize="25sp" /> -->
+
+<!--     <Button -->
+<!--         android:id="@+id/scanner" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_gravity="center_horizontal" -->
+<!--         android:gravity="center" -->
+<!--         android:text="Scan QR Code" > -->
+<!--     </Button> -->
+
+<!--     <Button -->
+<!--         android:id="@+id/scanner2" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_gravity="center_horizontal" -->
+<!--         android:gravity="center" -->
+<!--         android:text="Scan BAR Code" > -->
+<!--     </Button> -->
+
+<!-- </LinearLayout> -->
+
+
+
+
